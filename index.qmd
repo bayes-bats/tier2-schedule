@@ -1,0 +1,40 @@
+---
+title: "Bayes BATS Tier 2 Schedule"
+title-block-banner: true
+format:
+  html:
+    toc: true
+    toc-title: "Content"
+    toc-location: left
+    html-math-method: katex
+    theme: 
+      -  style.scss
+    page-layout: full
+---
+
+```{r}
+#| echo: false
+
+library(fontawesome)
+```
+
+## Office Hours
+
+Regardless of whether you are admitted to Tier 2 or not, if you have participated in Tier 1, you are welcome to attend office hours. Each PI will have one office hour each month. You can meet any PI, not necessarily the one assigned to your group. October and November office hour schedules are to be determined.
+
+| Date       | Time               | PI     | Zoom Link |
+|------------|--------------------|--------|-----------|
+| 2023-09-07 | 10 - 11 am ET      | Monika |           |
+| 2023-09-15 | 11:30 - 12:30 pm ET | Mine   | [`r fontawesome::fa(name = "video")`](https://uci.zoom.us/j/98257671078)          |
+| 2023-09-22 | 1:30 - 2:30 pm ET  | Amy    |           |
+
+## Timeline
+
+Each Tier 2 group will meet with their assigned mentor once a month to discuss the progress of the projects. Below is the expected timeline for all groups. 
+
+| Date                | Item                                                                     |
+|---------------------|--------------------------------------------------------------------------|
+| September 1st, 2023 | Submission of detailed work plan (goals, timeline, etc.)                 |
+| October 1st, 2023   | Submission of progress report 1                                                   |
+| November 1st, 2023  | Submission of progress report 2                                                   |
+| December 1st, 2023  | Submission of materials (including a 5- or 10-minute video presentation) |
