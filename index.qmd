@@ -32,6 +32,7 @@ Regardless of whether you are admitted to Tier 2 or not, if you have participate
 | 2023-10-26 | 1:00 - 2:00 pm ET | Mine   | [`r fontawesome::fa(name = "video")`](https://uci.zoom.us/j/94083693484)          |
 | 2023-11-02 | 2:00 - 3:00 pm ET | Mine   | [`r fontawesome::fa(name = "video")`](https://uci.zoom.us/j/93940337245)          |
 | 2023-11-13 | 2:00 - 3:00 pm ET | Amy   | [`r fontawesome::fa(name = "video")`](https://duke.zoom.us/my/amyherring)          |
+| 2023-11-09 | 11am - 12 am ET      | Monika |  [`r fontawesome::fa(name = "video")`](https://vassar.zoom.us/my/monika76five)  
 
 ## Timeline
 
